@@ -1,0 +1,7 @@
+.direnv
+build
+install
+log
+../include
+.cache
+__pycache__
